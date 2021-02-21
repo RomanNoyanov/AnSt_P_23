@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello, Android World!</string>
+    <string name="app_name">Program</string>
+    <string name="menu">menu</string>
+    <string name="it1">First point</string>
+    <string name="it2">"Second point "</string>
+    <string name="it3" translatable="false">3</string>
+    <string name="textbutton">Animation</string>
+
+
+    </resources>

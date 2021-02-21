@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color_NR</string>
+    <string name="hello">Привiт</string>
+    <string name="menu">Меню</string>
+    <string name="it1">перший пункт</string>
+    <string name="it2">другий</string>
+    <string name="textbutton">Анiмацiя</string>
+
+</resources>
